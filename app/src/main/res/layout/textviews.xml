@@ -26,6 +26,17 @@
         android:textColor="@color/red_400"
         android:textSize="18sp"
         android:textStyle="bold" />
+    <!--<TextView
+        android:id="@+id/team_a_pl_three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="2"
+        android:text="1"
+        android:textColor="@color/red_400"
+        android:textSize="18sp"
+        android:textStyle="bold" />-->
     <TextView
         android:id="@+id/team_a_pl_three"
         android:layout_width="match_parent"
